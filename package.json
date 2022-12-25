@@ -1,8 +1,8 @@
 {
-  "name": "parcel-project-template",
+  "name": "filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ihorchub.github.io/filmoteka",
+  "homepage": "https://Natalia970970.github.io/filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /filmoteka/"
